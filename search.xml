@@ -4,39 +4,25 @@
   
     
     <entry>
-      <title>粥粥</title>
-      <link href="/2022/07/23/%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F/"/>
-      <url>/2022/07/23/%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F/</url>
+      <title>光遇国服最新可用脚本</title>
+      <link href="/2022/07/24/%E5%85%89%E9%81%87%E8%84%9A%E6%9C%AC0724/"/>
+      <url>/2022/07/24/%E5%85%89%E9%81%87%E8%84%9A%E6%9C%AC0724/</url>
       
-        <content type="html"><![CDATA[<p>如果你是粥粥请点击下方的按钮<br>内置账号：粥粥<br>内置密码：020625lmm<br>请输入账号密码登录</p><h1 id="按钮"><a href="#按钮" class="headerlink" title="按钮"></a>按钮</h1><a class="btn-beautify [red]" href="https://my-bucket-ndcd2j5-1254175857.cos-website.ap-hongkong.myqcloud.com"   title="[点这里！]"><i class="[larger]"></i><span>[点这里！]</span></a>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2022/07/19/hello-world/"/>
-      <url>/2022/07/19/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><p>无root权限一定要在框架中运行脚本和游戏！<br>新号服务不要开！<br>带光翼字眼的不要开！<br>原地跑图使用过后不要切号！</p><h1 id="框架"><a href="#框架" class="headerlink" title="框架"></a>框架</h1><p>框架截图</p><center>框架截图<img src="https://pic.rmb.bdstatic.com/bjh/e71dffc4456b38d14cf4613505e1cb09.png" width="35%" height="35%" /></center><h1 id="脚本"><a href="#脚本" class="headerlink" title="脚本"></a>脚本</h1><img src="https://pic.rmb.bdstatic.com/bjh/c621a9092b385e3ae0b6967075486ebf.png" alt="脚本截图" width=30% height=30% ><center>脚本截图</center><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><a class="btn-beautify [red]" href="https://chenmublog.lanzouj.com/b017t3yni"   title="[密码：0000]"><i class="[larger]"></i><span>[密码：0000]</span></a>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>代码演示</title>
-      <link href="/2021/07/29/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/"/>
-      <url>/2021/07/29/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</url>
-      
-        <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span> ()</span><br><span class="line">&#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+          
+          <category> 游戏辅助 </category>
+          
+      </categories>
       
       
+        <tags>
+            
+            <tag> 光遇脚本 </tag>
+            
+        </tags>
       
     </entry>
     
